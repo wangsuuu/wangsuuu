@@ -25,7 +25,7 @@
 <br>
 
 <h3> 👩‍🎓Education </h3>
-  *Korea University* <br>
+  <i>Korea University</i> <br>
     ● Bachelor of Computer Science and Engineering <br>
     ● Bachelor of Chinese Language and Literature  <br>
 
