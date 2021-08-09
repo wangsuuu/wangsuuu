@@ -25,14 +25,14 @@
 <br>
 
 <h3> 👩‍🎓Education </h3>
-  <i>Korea University</i> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (March 2017 ~ August 2021)<br> 
+  <i>Korea University</i> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Mar 2017 ~ Aug 2021)<br> 
     ● Bachelor of Computer Science and Engineering <br>
     ● Bachelor of Chinese Language and Literature  <br>
     ● GPA : 3.92 / 4.5
    <br>
    <br>
    
-   <i>University College Dublin, Ireland</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Jan 2019 ~ June 2019) <br>
+   <i>University College Dublin, Ireland</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Jan 2019 ~ Jun 2019) <br>
     ● Exchange Student
     <br>
     <br>
