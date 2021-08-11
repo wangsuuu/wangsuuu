@@ -19,7 +19,7 @@
   
   ● SSAFY - Samsung Software Academy For Youth 6th(Algorithm & Web Full-Stack Course) (Jul 2021~ing) <br>
   ● KU AI Education Course (Oct 2020 ~ Dec 2020) <br> 
-  ● KoalaUniv - Data Science Education Course 2nd (Sep 2019 ~ Jan 2020) <br>
+  ● CoalaUniv - Data Science Education Course 2nd (Sep 2019 ~ Jan 2020) <br>
   
 <br>
 <br>
