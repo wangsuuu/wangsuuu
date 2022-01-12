@@ -46,7 +46,7 @@
 
 <h3><b> 🗣️Language <b></h3>
   ●   Korean - First language <br>
-  ●   English - TOEIC 975 <br>
+  ●   English - TOEIC 975, OPIc IH <br>
   ●   Chinese - HSK Level 6<br>
   
 <br>
