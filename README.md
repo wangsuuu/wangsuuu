@@ -1,59 +1,18 @@
-## Hi there 👋
+<br/>
+<br/>
+<div align="center">
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=E69A8D&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Suruen.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
+</div>
 
-<h3><b>🛠 Tech Stack 🛠</b></h3>
-<p> : Tech Stacks that I've used at least once </p>
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> &nbsp
+<br/>
 
-<br>
-<br>
+>[노션](https://brook-magician-368.notion.site/Wang-Su-Ruen-4448ead65b5044ada8fea675658c963d)에서 저의 이력을 확인하실 수 있습니다 :-)
 
-<h3>🌟Experience</h3>
-  
-  ● SSAFY - Samsung Software Academy For Youth 6th(Algorithm & Web Full-Stack Course) (Jul 2021~ing) <br>
-  ● KU AI Education Course (Oct 2020 ~ Dec 2020) <br> 
-  ● CoalaUniv - Data Science Education Course 2nd (Sep 2019 ~ Jan 2020) <br>
-  
-<br>
-<br>
+<br/>
 
-<h3> 👩‍🎓Education </h3>
-  <i>Korea University</i> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Mar 2017 ~ Aug 2021)<br> 
-    ● Bachelor of Computer Science and Engineering <br>
-    ● Bachelor of Chinese Language and Literature  <br>
-    ● GPA : 3.92 / 4.5
-   <br>
-   <br>
-   
-   <i>University College Dublin, Ireland</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Jan 2019 ~ Jun 2019) <br>
-    ● Exchange Student
-    <br>
-    <br>
-   <i>Beijing Normal University(北京师范大学), China</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Aug 2018 ~ Dec 2018) <br>
-    ● Exchange Student
-    <br>
-   
-
-<br>
-<br>
-
-<h3><b> 🗣️Language <b></h3>
-  ●   Korean - First language <br>
-  ●   English - TOEIC 975, OPIc IH <br>
-  ●   Chinese - HSK Level 6<br>
-  
-<br>
-<br>
-<br>
-
-[![wangsuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangsuuu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![wangsuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangsuuu&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wangsuuu/wangsuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
